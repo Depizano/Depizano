@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Depizano
 - 👀 I’m interested in Finance and Business Analytics
-- 🌱 I’m currently learning Data base management and Expandng on analytical skills
+- 🌱 I’m currently learning database management and expanding on analytical skills
 - 💞️ I’m looking to collaborate on new financial and tech developments in order to help companies get ahead
-- 📫 How to reach me? connect on linkedIn
+- 📫 How to reach me? Connect on LinkedIn
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I want to open a resturant one day
+- ⚡ Fun fact: I want to open a restaurant one day
 
 <!---
 Depizano/Depizano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
